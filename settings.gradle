@@ -1,0 +1,20 @@
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+        jcenter() // Warning: this repository is going to shut down soon
+    }
+}
+rootProject.name = "Book Experiment"
+include ':app'
+include ':demo3_5_2'
+include ':demo4_2_2'
+include ':demo4_3_2'
+include ':shardpreferences'
+include ':sqlitedemo'
+include ':litepalapplication'
+include ':broadcasttest'
+include ':broadcasttest2'
+include ':localbroadcasttest'
+include ':broadcastbestpractice'
