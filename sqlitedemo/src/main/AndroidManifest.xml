@@ -9,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BookExperiment">
+        <provider
+            android:name=".DatabaseProvider"
+            android:authorities="com.example.bookexperiment.sqlitedemo.provider"
+            android:enabled="true"
+            android:exported="true"></provider>
+
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -20,7 +20,7 @@ public class MyDatabaseHelper extends SQLiteOpenHelper {
     @Override
     public void onCreate(SQLiteDatabase db) {
         db.execSQL(CREAT_BOOK);
-        Toast.makeText(mContext, "Create succeeded", Toast.LENGTH_LONG).show();
+//        Toast.makeText(mContext, "Create succeeded", Toast.LENGTH_LONG).show();
     }
 
     @Override

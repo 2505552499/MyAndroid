@@ -3,15 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android_Workstation/BookExperiment/androidthreadtest/src/main/res/layout/activity_main.xml" value="0.184375" />
         <entry key="..\:/Android_Workstation/BookExperiment/broadcastbestpractice/src/main/res/layout/activity_login.xml" value="0.19895833333333332" />
         <entry key="..\:/Android_Workstation/BookExperiment/broadcastbestpractice/src/main/res/layout/activity_main.xml" value="0.184375" />
         <entry key="..\:/Android_Workstation/BookExperiment/broadcasttest/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Android_Workstation/BookExperiment/contactstest/src/main/res/layout/activity_main.xml" value="0.34739583333333335" />
         <entry key="..\:/Android_Workstation/BookExperiment/demo3_5_2/src/main/res/layout/activity_main.xml" value="0.3572916666666667" />
         <entry key="..\:/Android_Workstation/BookExperiment/demo3_5_2/src/main/res/layout/activity_shop.xml" value="0.3572916666666667" />
         <entry key="..\:/Android_Workstation/BookExperiment/demo4_2_2/src/main/res/layout/activity_main.xml" value="0.3572916666666667" />
         <entry key="..\:/Android_Workstation/BookExperiment/demo4_3_2/src/main/res/layout/activity_main.xml" value="0.3572916666666667" />
         <entry key="..\:/Android_Workstation/BookExperiment/litepalapplication/src/main/res/layout/activity_main.xml" value="0.184375" />
         <entry key="..\:/Android_Workstation/BookExperiment/localbroadcasttest/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/Android_Workstation/BookExperiment/runtimepermissiontest/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Android_Workstation/BookExperiment/servicebestpractice/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Android_Workstation/BookExperiment/servicetest/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
         <entry key="..\:/Android_Workstation/BookExperiment/shardpreferences/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Android_Workstation/BookExperiment/sqlitedemo/src/main/res/layout/activity_main.xml" value="0.19895833333333332" />
       </map>

@@ -10,15 +10,20 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidthreadtest" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcastbestpractice" />
             <option value="$PROJECT_DIR$/broadcasttest" />
             <option value="$PROJECT_DIR$/broadcasttest2" />
+            <option value="$PROJECT_DIR$/contactstest" />
             <option value="$PROJECT_DIR$/demo3_5_2" />
             <option value="$PROJECT_DIR$/demo4_2_2" />
             <option value="$PROJECT_DIR$/demo4_3_2" />
             <option value="$PROJECT_DIR$/litepalapplication" />
             <option value="$PROJECT_DIR$/localbroadcasttest" />
+            <option value="$PROJECT_DIR$/runtimepermissiontest" />
+            <option value="$PROJECT_DIR$/servicebestpractice" />
+            <option value="$PROJECT_DIR$/servicetest" />
             <option value="$PROJECT_DIR$/shardpreferences" />
             <option value="$PROJECT_DIR$/sqlitedemo" />
           </set>
