@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:androud="http://schemas.android.com/apk/res/android"
+    androud:layout_height="match_parent"
+    androud:layout_width="match_parent">
+    <Button
+        androud:id="@+id/change_text"
+        androud:layout_width="match_parent"
+        androud:layout_height="wrap_content"
+        androud:text="Change Text"/>
+    <TextView
+        androud:id="@+id/text"
+        androud:layout_width="wrap_content"
+        androud:layout_height="wrap_content"
+        androud:layout_centerInParent="true"
+        androud:text="Hello World"
+        androud:textSize="20sp"/>
+</RelativeLayout>
